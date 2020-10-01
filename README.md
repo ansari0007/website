@@ -1,4 +1,4 @@
-# Сайт effectivealtruism.ru
+# Сайт effectivealtruism.ru(Website effectivealtruism.ru)
 
 [![Build Status](https://travis-ci.org/effectivealtruism-ru/website.svg?branch=master)](https://travis-ci.org/effectivealtruism-ru/website)
 
